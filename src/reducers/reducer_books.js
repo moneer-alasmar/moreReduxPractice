@@ -1,8 +1,8 @@
 export default function() {
   return [
-    { title: "JavaScript" },
-    { title: "Harry Potter" },
-    { title: "Dark Tower" },
-    { title: "Ruby" }
+    { title: "JavaScript", pages: 101 },
+    { title: "Harry Potter", pages: 1000 },
+    { title: "Dark Tower", pages: 20 },
+    { title: "Ruby", pages: 1 }
   ];
 }
